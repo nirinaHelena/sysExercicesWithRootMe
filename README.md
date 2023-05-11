@@ -1,7 +1,7 @@
 # sysExercicesWithRootMe
 Voici un repo  pour montrer comment j'ai fait  les level :
-FTP authentification
-Telnet authentification
+FTP - Authentification
+	TELNET - authentification
 Ethernet trame
-Authentification twitter
+Authentification twittr
 Bluetooth - Fichier inconnu
