@@ -1,0 +1,9 @@
+convertir le fichier hexadécimale
+on a:
+ s àiØZÝ`@& S`*¼ºÞÀÞ AÐB3tP¼ê}¸Á×áÏ 
+	>i¹¡~ÓGET / HTTP/1.1
+Authorization: Basic Y29uZmk6ZGVudGlhbA==
+User-Agent: InsaneBrowser
+Host: www.myipv6.org
+
+le mot de passe est en base 64(présence de == à la fin) ; on le décode
